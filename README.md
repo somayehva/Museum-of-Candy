@@ -6,7 +6,7 @@ An eye-catching landing page for the Museum of Candy using Bootstrap, HTML, CSS,
 
 ## Demo
 
-You can view the live landing page [here](link-to-your-live-demo).
+You can view the live landing page [here](http://somayeh.me/museum-of-candy/).
 
 ## Technologies Used
 
@@ -22,4 +22,4 @@ You can view the live landing page [here](link-to-your-live-demo).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
